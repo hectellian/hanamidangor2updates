@@ -21,23 +21,18 @@
 
 ## Renders
 
-- PC Boards -> unikorn/gummy o ring 60 variants
+- Any Alice Layout Board
+- Lots of 65-75%
+- TKLs
+- PC Boards -> unikorn/gummy o ring 60 variants (especially for choob)
 
 ## Collabs
 ### Artisans
 
-- Hibi Keycaps
-> [Site Link](https://hibi.mx/collections/collaborations)
-
-- CYSM
-> [Site Link](https://cysm.store/password)
-
-- Sumcaps
-> [IG Link](https://instagram.com/sumcapas)
-
-- BungKee Caps
-> [IG Link](https://instagram.com/bungkee.caps)
-
+- [Hibi Keycaps](https://hibi.mx/collections/collaborations)
+- [CYSM](https://cysm.store/password)
+- [Sumcaps](https://instagram.com/sumcapas)
+- [BungKee Caps](https://instagram.com/bungkee.caps)
 
 ### Boards
 
@@ -47,34 +42,22 @@
 > [Site Link](https://rama.works/)
 
 - M6-C
-- Iventory 2
+- Iventory 2 (?)
 - Artisan Keycaps
 
 ### Cables
 
-- Swift Cables
-> [Site Link](https://swiftcables.net/)
-
-- Space Cables
-> [Site Link](https://spacecables.net/)
-
-- Kat Koil
-> [Site Link](https://katkoil.com/)
-
-- RN Cables
-> [Site Link](https://rncables.com/)
+- [Swift Cables](https://swiftcables.net/)
+- [Space Cables](https://spacecables.net/) <- default
+- [Kat Koil](https://katkoil.com/)
+- [RN Cables](https://rncables.com/)
 
 ## Proxy/Vendors
 
 > Preferred (Not Final):
 
-- [EU] MKEU
-> [Site Link](https://mykeyboard.eu/)
-- [NA] Space Cables
-> [Site Link](https://spacecables.net/)
+- [EU] [MKEU](https://mykeyboard.eu/)
+- [NA] [Space Cables](https://spacecables.net/)
 - [CA]
->
 - [ASIA]
->
 - [AU]
->
