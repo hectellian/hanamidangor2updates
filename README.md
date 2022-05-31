@@ -1,4 +1,4 @@
-# What are changes for Hanami Dango Round 2
+# What are the changes for Hanami Dango Round 2
 
 ## Adds
 
