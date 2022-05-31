@@ -15,9 +15,9 @@
 
 ### Colors
 
-- RAL 3017 ->
-- RAL 9001 ->
-- RAL 6011 ->
+- RAL 3017 -> still thinking
+- RAL 9001 -> still thinking
+- RAL 6011 -> still thinking
 
 ## Renders
 
@@ -66,7 +66,7 @@
 
 ## Proxy/Vendors
 
-> Wanted (Not Final)
+> Preferred (Not Final):
 
 - [EU] MKEU
 > [Site Link](https://mykeyboard.eu/)
