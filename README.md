@@ -43,6 +43,13 @@
 
 - ikki68
 
+### RAMA
+> [Site Link](https://rama.works/)
+
+- M6-C
+- Iventory 2
+- Artisan Keycaps
+
 ### Cables
 
 - Swift Cables
