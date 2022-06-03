@@ -57,7 +57,8 @@
 > Preferred (Not Final):
 
 - [EU] [MKEU](https://mykeyboard.eu/)
+- [UK] [Proto[Typist]](https://prototypist.net/)
 - [NA] [Space Cables](https://spacecables.net/)
-- [CA]
-- [ASIA]
-- [AU]
+- [CA] [DeskHero](https://www.deskhero.ca/)
+- [CN] [zFrontier](https://en.zfrontier.com/) 
+- [OCE] [SwitchKeys](https://www.switchkeys.com.au/)
