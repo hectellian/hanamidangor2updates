@@ -1,15 +1,15 @@
 # What are the changes for Hanami Dango Round 2
 
-## Adds
+## What could be added?
 
 - F13
 - 40s/Macro Kit
 - NordEU Kit
 - Mini Deskmats?
 
-## Changes
+## Changes Expected 
 ### Kits
-- Change from GMK??
+- Change from GMK?? (no but maybe)
 - Hiragana Mono -> Hiragana Base (Mono or Sub?)
 - Better Space Bar Kit, Removing B from kit
 
@@ -26,7 +26,7 @@
 - TKLs
 - PC Boards -> unikorn/gummy o ring 60 variants (especially for choob)
 
-## Collabs
+## Collabs Ideas
 ### Artisans
 
 - [Hibi Keycaps](https://hibi.mx/collections/collaborations)
@@ -52,7 +52,7 @@
 - [Kat Koil](https://katkoil.com/)
 - [RN Cables](https://rncables.com/)
 
-## Proxy/Vendors
+## Proxy/Vendors Ideas
 
 > Preferred (Not decided yet):
 
