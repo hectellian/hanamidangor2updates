@@ -54,7 +54,7 @@
 
 ## Proxy/Vendors
 
-> Preferred (Not Final):
+> Preferred (Not decided yet):
 
 - [EU] [MKEU](https://mykeyboard.eu/)
 - [UK] [Proto[Typist]](https://prototypist.net/)
