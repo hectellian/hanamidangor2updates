@@ -1,30 +1,32 @@
 # What are the changes for Hanami Dango Round 2
 
+**crossed out texted means done unless there's a `-> no`**
+
 ## What could be added?
 
-- F13
+- ~~F13~~
+- ~~NordEU Kit~~
 - 40s/Macro Kit
-- NordEU Kit
 - Mini Deskmats?
 
 ## Changes Expected 
 ### Kits
-- Change from GMK?? (no but maybe)
-- Hiragana Mono -> Hiragana Base (Mono or Sub?)
+- ~~Change from GMK??~~ -> no
+- Hiragana Mono -> Hiragana Base (Mono or Sub?): 2 Base Kits
 - Better Space Bar Kit, Removing B from kit
 
-### Colors
+### Colors (testing)
 
-- RAL 3017 -> still thinking
-- RAL 9001 -> still thinking
-- RAL 6011 -> still thinking
+- RAL 3017 -> RAL 3014
+- RAL 9001 -> RAL 3015
+- RAL 6011 -> RAL 6021
 
 ## Renders
 
+- ~~PC Boards -> unikorn/gummy o ring 60 variants (especially for choob)~~
 - Any Alice Layout Board
 - Lots of 65-75%
 - TKLs
-- PC Boards -> unikorn/gummy o ring 60 variants (especially for choob)
 
 ## Collabs Ideas
 ### Artisans
