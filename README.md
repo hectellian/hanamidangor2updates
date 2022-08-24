@@ -1,6 +1,6 @@
 # What are the changes for Hanami Dango Round 2
 
-**crossed out texted means done unless there's a `-> no`**
+*crossed out text means done unless there's a `-> no`*
 
 ## What could be added?
 
